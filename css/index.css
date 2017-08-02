@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: white;
+    border: 1px solid gray;
+}
+#carousel img {
+    margin: 0 auto;
+}
+
+
+#item-list img {
+    margin: 0 auto;
+}
